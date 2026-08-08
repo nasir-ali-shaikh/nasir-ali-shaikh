@@ -9,7 +9,7 @@ Software Engineering Student • Python Developer • Aspiring Data Scientist
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nasir-ali-shaikh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nasir-ali-shaikh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -25,7 +25,7 @@ I enjoy transforming raw data into meaningful insights, developing practical app
 - 📊 Data Analytics
 - 🐍 Python Programming
 - ☕ Java Development
-- 🗄 SQL & Databases
+- 🗄️ SQL & Databases
 - 📈 Power BI
 - 🤖 Machine Learning
 
@@ -33,13 +33,13 @@ I enjoy transforming raw data into meaningful insights, developing practical app
 
 ## 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,mysql"/>
 </p>
 
-### Data Analytics
+### 📊 Data Analytics
 
 <p>
 
@@ -53,10 +53,10 @@ I enjoy transforming raw data into meaningful insights, developing practical app
 
 </p>
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,jupyter"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,jupyter"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ I enjoy transforming raw data into meaningful insights, developing practical app
 ### 📊 Data Analytics
 
 - 📌 Data Cleaning & Preparation
-- 📌 Logistics & Supply Chain Analytics Dashboard
+- 📌 Logistics & Supply Chain Analytics
 - 📌 HR Employee Analytics
 - 📌 E-Commerce Analytics
 
@@ -101,16 +101,6 @@ I enjoy transforming raw data into meaningful insights, developing practical app
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nasir-ali-shaikh&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 ## 📊 Contribution Graph
 
 <p align="center">
@@ -137,11 +127,11 @@ I enjoy transforming raw data into meaningful insights, developing practical app
 <p align="left">
 
 <a href="https://github.com/nasir-ali-shaikh">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Nasir Ali Shaikh">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/nasir-ali-shaikh-b8374832a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mirnasiralishaikh@gmail.com">
@@ -162,6 +152,6 @@ I enjoy transforming raw data into meaningful insights, developing practical app
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Keep Learning • Keep Building • Keep Growing"* 🚀
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>
